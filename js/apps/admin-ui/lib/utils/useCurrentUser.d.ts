@@ -1,0 +1,27 @@
+export declare function useCurrentUser(): {
+    realm: string;
+    id?: string;
+    createdTimestamp?: number;
+    username?: string;
+    enabled?: boolean;
+    totp?: boolean;
+    emailVerified?: boolean;
+    disableableCredentialTypes?: string[];
+    requiredActions?: (import('js/libs/keycloak-admin-client/lib/defs/requiredActionProviderRepresentation').RequiredActionAlias | string)[];
+    notBefore?: number;
+    access?: Record<string, boolean>;
+    attributes?: Record<string, any>;
+    clientConsents?: import('js/libs/keycloak-admin-client/lib/defs/userConsentRepresentation').default[];
+    clientRoles?: Record<string, any>;
+    credentials?: import('js/libs/keycloak-admin-client/lib/defs/credentialRepresentation').default[];
+    email?: string;
+    federatedIdentities?: import('js/libs/keycloak-admin-client/lib/defs/federatedIdentityRepresentation').default[];
+    federationLink?: string;
+    firstName?: string;
+    groups?: string[];
+    lastName?: string;
+    realmRoles?: string[];
+    self?: string;
+    serviceAccountClientId?: string;
+    userProfileMetadata?: import('js/libs/keycloak-admin-client/lib/defs/userProfileMetadata').UserProfileMetadata;
+};

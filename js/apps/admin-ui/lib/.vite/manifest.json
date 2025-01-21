@@ -1,0 +1,105 @@
+{
+  "_index-D49mqW_n.js": {
+    "file": "index-D49mqW_n.js",
+    "name": "index",
+    "dynamicImports": [
+      "src/authentication/FlowDetails.tsx",
+      "src/authentication/form/CreateFlow.tsx",
+      "src/clients/authorization/PermissionDetails.tsx",
+      "src/clients/authorization/ResourceDetails.tsx",
+      "src/clients/authorization/ResourceDetails.tsx",
+      "src/clients/authorization/PermissionDetails.tsx",
+      "src/clients/authorization/ScopeDetails.tsx",
+      "src/clients/authorization/ScopeDetails.tsx",
+      "src/organizations/NewOrganization.tsx",
+      "src/organizations/DetailOrganization.tsx",
+      "src/realm-settings/ExecutorForm.tsx",
+      "src/realm-settings/ExecutorForm.tsx"
+    ]
+  },
+  "src/authentication/FlowDetails.tsx": {
+    "file": "FlowDetails-DhODASOV.js",
+    "name": "FlowDetails",
+    "src": "src/authentication/FlowDetails.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-D49mqW_n.js"
+    ]
+  },
+  "src/authentication/form/CreateFlow.tsx": {
+    "file": "CreateFlow-CgrG-zrj.js",
+    "name": "CreateFlow",
+    "src": "src/authentication/form/CreateFlow.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-D49mqW_n.js"
+    ]
+  },
+  "src/clients/authorization/PermissionDetails.tsx": {
+    "file": "PermissionDetails-iql8o0Gw.js",
+    "name": "PermissionDetails",
+    "src": "src/clients/authorization/PermissionDetails.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-D49mqW_n.js"
+    ]
+  },
+  "src/clients/authorization/ResourceDetails.tsx": {
+    "file": "ResourceDetails-mKMKQiPp.js",
+    "name": "ResourceDetails",
+    "src": "src/clients/authorization/ResourceDetails.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-D49mqW_n.js"
+    ]
+  },
+  "src/clients/authorization/ScopeDetails.tsx": {
+    "file": "ScopeDetails-Y3ciNXJx.js",
+    "name": "ScopeDetails",
+    "src": "src/clients/authorization/ScopeDetails.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-D49mqW_n.js"
+    ]
+  },
+  "src/index.ts": {
+    "file": "keycloak-admin-ui.js",
+    "name": "index",
+    "src": "src/index.ts",
+    "isEntry": true,
+    "imports": [
+      "_index-D49mqW_n.js"
+    ]
+  },
+  "src/organizations/DetailOrganization.tsx": {
+    "file": "DetailOrganization-CaIRdvr1.js",
+    "name": "DetailOrganization",
+    "src": "src/organizations/DetailOrganization.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-D49mqW_n.js"
+    ]
+  },
+  "src/organizations/NewOrganization.tsx": {
+    "file": "NewOrganization-DcLSAyBq.js",
+    "name": "NewOrganization",
+    "src": "src/organizations/NewOrganization.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-D49mqW_n.js"
+    ]
+  },
+  "src/realm-settings/ExecutorForm.tsx": {
+    "file": "ExecutorForm-CirVeqES.js",
+    "name": "ExecutorForm",
+    "src": "src/realm-settings/ExecutorForm.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-D49mqW_n.js"
+    ]
+  },
+  "style.css": {
+    "file": "style.css",
+    "src": "style.css"
+  }
+}
